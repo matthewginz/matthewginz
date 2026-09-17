@@ -1,8 +1,7 @@
 ### Hi there
 
 Quantitative Finance student at Stevens Institute of Technology (BS, anticipated
-May 2028), building real trading systems and research tools rather than just
-studying them in the classroom.
+May 2028), building real trading systems and research tools in my free time.
 
 Most recently: co-managed a Vanguard ETF-only portfolio that finished #1 in
 total return and 2nd overall out of 50 competing teams (Vanguard ETF Trading
@@ -15,8 +14,7 @@ methods, market microstructure, time-series forecasting, and risk management —
 mostly Python (pandas, NumPy, scikit-learn), with C++, SQL, R, and
 TypeScript/JavaScript as needed. Currently building an autonomous coding agent
 for Agenthon 2026, a NeurIPS quantitative-finance coding-agent competition —
-self-correcting against real pytest-based financial invariant checks, not just
-prompting an LLM once and hoping.
+self-correcting against real pytest-based financial invariant checks.
 
 **Projects**
 
